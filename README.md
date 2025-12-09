@@ -33,6 +33,9 @@ This toolkit provides optimized functions to perform common asset management ope
 - You must have an active account at [Google Earth Engine](https://earthengine.google.com/)
 - Make sure you have adequate permissions to read and write to the asset paths you will use
 
+## Usage
+You can see the complete example in the notebook: [GEE_Asset_Management_EN.ipynb](GEE_Asset_Management_EN.ipynb)
+
 ## Limitations and Considerations
 
 ### GEE Quotas and Limits
