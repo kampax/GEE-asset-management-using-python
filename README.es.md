@@ -1,3 +1,10 @@
+<div align="center">
+
+[![English](https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge&logo=google-earth&logoColor=white)](README.md)
+
+</div>
+
+---
 # Google Earth Engine - Asset Management usando Python
 
 Debido a la dificultad que encontré en el manejo de assets en Google Earth Engine (GEE), he organizado una colección completa de herramientas para gestionar assets en Google Earth Engine (GEE), incluyendo operaciones de copia y eliminación de imágenes, tablas, colecciones y estructuras de carpetas completas.
@@ -25,6 +32,9 @@ Este toolkit proporciona funciones optimizadas para realizar operaciones comunes
 ### Cuenta de Google Earth Engine
 - Debes tener una cuenta activa en [Google Earth Engine](https://earthengine.google.com/)
 - Asegúrate de tener permisos adecuados para leer y escribir en las rutas de assets que usarás
+
+## Uso
+Puedes ver el ejemplo completo en el notebook: [GEE_Asset_Management_ES.ipynb](GEE_Asset_Management_ES.ipynb)
 
 ## Limitaciones y Consideraciones
 

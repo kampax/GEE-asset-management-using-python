@@ -1,3 +1,10 @@
+<div align="center">
+
+[![Español](https://img.shields.io/badge/Leer_en-Español-red?style=for-the-badge&logo=google-earth&logoColor=white)](README.es.md)
+
+</div>
+
+---
 # Google Earth Engine - Asset Management using Python
 
 Due to the difficulties I encountered in managing assets in Google Earth Engine (GEE), I have organized a complete collection of tools to manage assets in Google Earth Engine (GEE), including copy and delete operations for images, tables, collections, and complete folder structures.
