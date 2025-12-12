@@ -1,0 +1,23 @@
+{
+  "title": "GEE asset management using-python: Tools for Google Earth Engine Asset Management",
+  "description": "Python tools and scripts designed to simplify and automate asset management (images, tables, and collections) in Google Earth Engine. Features include batch processing, asset listing, and recursive operations using the Earth Engine Python API.",
+  "creators": [
+    {
+      "name": "Navarro, Carlos Javier",
+      "orcid": "0000-0002-8934-6133",
+      "affiliation": "Instituto de Datación y Arqueometría InDyA"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Google Earth Engine",
+    "Python",
+    "Asset Management",
+    "Remote Sensing",
+    "GEE",
+    "Earth Observation"
+  ],
+  "upload_type": "software",
+  "version": "v1.0.0"
+}
